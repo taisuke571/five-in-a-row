@@ -1,0 +1,1 @@
+terminal type node .\server.js and open "http://localhost:3001/" on browser
